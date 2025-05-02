@@ -418,7 +418,7 @@
     <string name="contributions_info_menu">Infos sur les contributions</string>
     <string name="contributions_info_msg"><![CDATA[<b>Nombre de contributeurs :</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Nombre de contributions :</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Dernière mise à jour :</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Dernière mise à jour :</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Statistiques SigmaDroid</string>
     <string name="anonymous_statistics_summary">Contribuer à l\'amélioration de SigmaDroid en envoyant des rapports de statistiques anonymes</string>
     <string name="anonymous_statistics_warning_title">À propos</string>

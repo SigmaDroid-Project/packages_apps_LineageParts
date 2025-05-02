@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Thông tin đóng góp</string>
     <string name="contributions_info_msg"><![CDATA[<b>Tổng những người đóng góp:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Tổng đóng góp:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Cập nhật mới nhất:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Cập nhật mới nhất:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Thống kê SigmaDroid</string>
     <string name="anonymous_statistics_summary">Giúp cho SigmaDroid tốt hơn bằng cách chọn vào báo cáo số liệu thống kê ẩn danh</string>
     <string name="anonymous_statistics_warning_title">Về</string>

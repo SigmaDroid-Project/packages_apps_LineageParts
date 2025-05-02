@@ -388,7 +388,7 @@
     <string name="contributions_info_menu">Informácie o príspevkoch</string>
     <string name="contributions_info_msg"><![CDATA[<b>Celkom prispievateľov:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Celkom príspevkov:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Posledná aktualizácia:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Posledná aktualizácia:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Štatistiky SigmaDroid</string>
     <string name="anonymous_statistics_summary">Pomôžte zlepšiť SigmaDroid povolením anonymných štatistických hlásení</string>
     <string name="anonymous_statistics_warning_title">O</string>

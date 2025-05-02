@@ -393,7 +393,7 @@
     <string name="contributions_info_menu">Fiosrachadh nan tabhartasan</string>
     <string name="contributions_info_msg"><![CDATA[<b>Com-pàirtichean iomlan:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Commits iomlan:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>An t-ùrachadh mu dheireadh:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>An t-ùrachadh mu dheireadh:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Stadastaireachd air SigmaDroid</string>
     <string name="anonymous_statistics_summary">Cuidich leinn a thoirt piseach air SigmaDroid is tu a’ cur aithrisean stadastaireachd gun urra an comas</string>
     <string name="anonymous_statistics_warning_title">Mu dhèidhinn</string>

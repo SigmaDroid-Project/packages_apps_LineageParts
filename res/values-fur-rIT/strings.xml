@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Informazions contribûts</string>
     <string name="contributions_info_msg"><![CDATA[<b>Totâl colaboradôrs:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Totâl contribûts:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Ultin inzornament:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Ultin inzornament:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Statistichis di SigmaDroid</string>
     <string name="anonymous_statistics_summary">Jude a miorâ SigmaDroid permetint l\'inviament di statistichis anonimis</string>
     <string name="anonymous_statistics_warning_title">Informazions</string>

@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">기여 정보</string>
     <string name="contributions_info_msg"><![CDATA[<b>총 기여자:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>총 변경 사항:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>마지막 업데이트:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>마지막 업데이트:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid 통계</string>
     <string name="anonymous_statistics_summary">익명의 통계 자료를 보내 SigmaDroid 개선에 도움 주기</string>
     <string name="anonymous_statistics_warning_title">정보</string>

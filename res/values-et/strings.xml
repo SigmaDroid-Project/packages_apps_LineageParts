@@ -387,7 +387,7 @@
     <string name="contributions_info_menu">Toetuste info</string>
     <string name="contributions_info_msg"><![CDATA[<b>Panustajaid kokku:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Commite kokku:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Viimane uuendus:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Viimane uuendus:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid\'i statistika</string>
     <string name="anonymous_statistics_summary">Aita SigmaDroid\'i paremaks teha, lülitades sisse anonüümse statistika raporteerimise</string>
     <string name="anonymous_statistics_warning_title">Teave</string>

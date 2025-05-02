@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Informacje o twórcach</string>
     <string name="contributions_info_msg"><![CDATA[<b>Łączna liczba współtwórców:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Łączna liczba poprawek:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Ostatnia aktualizacja:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Ostatnia aktualizacja:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Statystyki SigmaDroid</string>
     <string name="anonymous_statistics_summary">Pomóż ulepszyć SigmaDroid, pozwalając na wysyłanie anonimowych statystyk</string>
     <string name="anonymous_statistics_warning_title">O programie</string>

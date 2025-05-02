@@ -402,7 +402,7 @@
     <string name="contributions_info_menu">Informasi kontributor</string>
     <string name="contributions_info_msg"><![CDATA[<b>Total kontributor:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Total commit:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Diperbarui:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Diperbarui:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Statistik SigmaDroid</string>
     <string name="anonymous_statistics_summary">Bantu SigmaDroid untuk menjadi lebih baik dengan memilih ikut dalam pelaporan statistik anonim</string>
     <string name="anonymous_statistics_warning_title">Tentang</string>

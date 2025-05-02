@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Informații contribuții</string>
     <string name="contributions_info_msg"><![CDATA[<b>Total contribuitori:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Total commit-uri:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Ultima actualizare:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Ultima actualizare:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Statistici SigmaDroid</string>
     <string name="anonymous_statistics_summary">Ajutați la îmbunătățirea lui SigmaDroid prin optarea pentru raportarea anonimă de statistici</string>
     <string name="anonymous_statistics_warning_title">Despre</string>

@@ -372,7 +372,7 @@
     <string name="contributions_info_menu">Informacije suradnika</string>
     <string name="contributions_info_msg"><![CDATA[<b>Svi suradnici:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Ukupno obveza</b><xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Zadnje ažuriranje</b><xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Zadnje ažuriranje</b><xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid statistika</string>
     <string name="anonymous_statistics_summary">Pomozite nam poboljšati SigmaDroid slanjem anonimnih statističkih izvješća</string>
     <string name="anonymous_statistics_warning_title">O</string>

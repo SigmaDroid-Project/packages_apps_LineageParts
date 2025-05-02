@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Töhfələr barədə məlumat</string>
     <string name="contributions_info_msg"><![CDATA[<b>Cəmi töhfə verənlər:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Cəmi daxil edilənlər:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Son güncəlləmə:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Son güncəlləmə:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid statistikaları</string>
     <string name="anonymous_statistics_summary">Anonim statistika göndərməni tərcih edərək, SigmaDroid-u təkmilləşdirməyimizə kömək edin</string>
     <string name="anonymous_statistics_warning_title">Haqqında</string>

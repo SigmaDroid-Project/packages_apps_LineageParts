@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Πληροφορίες συνεισφορών</string>
     <string name="contributions_info_msg"><![CDATA[<b>Σύνολο συνεισφερόντων:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Σύνολο συνεισφορών:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Τελευταία ενημέρωση:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Τελευταία ενημέρωση:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">Στατιστικά SigmaDroid</string>
     <string name="anonymous_statistics_summary">Βοηθήστε το SigmaDroid να γίνει καλύτερο ενεργοποιώντας την αποστολή ανώνυμων στατιστικών στοιχείων</string>
     <string name="anonymous_statistics_warning_title">Σχετικά</string>

@@ -418,7 +418,7 @@
     <string name="contributions_info_menu">Informace o přispěvatelích</string>
     <string name="contributions_info_msg"><![CDATA[<b>Celkem přispěvatelů:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Celkem příspěvků:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Poslední aktualizace:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Poslední aktualizace:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid statistika</string>
     <string name="anonymous_statistics_summary">Pomozte nám zdokonalit SigmaDroid zasíláním anonymní statistiky</string>
     <string name="anonymous_statistics_warning_title">O této aplikaci</string>

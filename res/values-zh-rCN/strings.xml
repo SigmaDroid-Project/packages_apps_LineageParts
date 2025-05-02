@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">贡献信息</string>
     <string name="contributions_info_msg"><![CDATA[<b>贡献者总数:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>提交总数:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>上次更新:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>上次更新:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid 统计</string>
     <string name="anonymous_statistics_summary">开启匿名统计报告以便帮助 SigmaDroid 未来向更好的方向发展</string>
     <string name="anonymous_statistics_warning_title">关于</string>

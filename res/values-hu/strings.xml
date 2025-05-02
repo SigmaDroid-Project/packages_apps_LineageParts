@@ -419,7 +419,7 @@
     <string name="contributions_info_menu">Közreműködési információ</string>
     <string name="contributions_info_msg"><![CDATA[<b>Összes közreműködő:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Összes feladat:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
-                 <b>Utolsó frissítés:</b> <xliff:g id="date">%3$s</xliff:g></string>
+                 <b>Utolsó frissítés:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
     <string name="anonymous_statistics_title">SigmaDroid statisztika</string>
     <string name="anonymous_statistics_summary">Segítsen a SigmaDroid jobbá tételében, kapcsolja be a névtelen statisztikai adatok gyűjtését</string>
     <string name="anonymous_statistics_warning_title">Névjegy</string>
